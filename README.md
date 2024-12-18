@@ -13,9 +13,15 @@ What We offer:
 
 ### Statistics
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevghost" alt="webdevghost" /></a> </p>  
+
 <br>  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevghost&show_icons=true&theme=dark&title_color=ffffff&text_color=fafafa&bg_color=545454&locale=en&layout=compact" alt="webdevghost" /></p>  
+
 <br>  
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevghost&show_icons=true&theme=dark&title_color=fcfcfc&text_color=ffffff&bg_color=545454&locale=en" alt="webdevghost" /></p>  
+
 <br>  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevghost&theme=dark" alt="webdevghost" /></p>  
