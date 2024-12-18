@@ -12,71 +12,71 @@ What We offer:
 
 ### ⚙️ What We Work With
 - Programming Languages
- - Java
- - JavaScript
- - PHP
- - Python
- - Swift
+  - Java
+  - JavaScript
+  - PHP
+  - Python
+  - Swift
 - Front-End Development
- - React
- - BackBone JS
- - BootStrap
- - CSS3
- - HTML5
- - SASS
- - WebPack
- - TailWind
- - Materialize
- - QT
+  - React
+  - BackBone JS
+  - BootStrap
+  - CSS3
+  - HTML5
+  - SASS
+  - WebPack
+  - TailWind
+  - Materialize
+  - QT
 - Back-End Development
- - NodeJS
- - Nginx
- - NestJS
+  - NodeJS
+  - Nginx
+  - NestJS
 - Mobile App Development
- - Android
- - Flutter
- - Kotlin
- - NativeScript
- - ReactNative
+  - Android
+  - Flutter
+  - Kotlin
+  - NativeScript
+  - ReactNative
 - AI / Machine Learning
- - PY Torch
- - SeaBorn
+  - PY Torch
+  - SeaBorn
 - Database
- - MongoDB
- - MySQL
- - Oracle
- - SQ-Lite
- - MS-SQL
+  - MongoDB
+  - MySQL
+  - Oracle
+  - SQ-Lite
+  - MS-SQL
 - Data Visualization
- - CanvasJS
+  - CanvasJS
 - DevOps
- - AWS
- - Docker
- - Kubernetes
- - Bash
- - Azure
+  - AWS
+  - Docker
+  - Kubernetes
+  - Bash
+  - Azure
 - BAAS (Back-End As A Service)
- - FireBase
- - Heroku
+  - FireBase
+  - Heroku
 - Framework
- - Django
- - DotNet
- - Electron
- - Flask
- - Quasar
+  - Django
+  - DotNet
+  - Electron
+  - Flask
+  - Quasar
 - Testing
- - Selenium
+  - Selenium
 - Software
- - Illustrator
- - PhotoShop
- - Figma
- - Blender
+  - Illustrator
+  - PhotoShop
+  - Figma
+  - Blender
 - Static Site Generators
- - Jekyll
- - NextJS
- - VuePress
+  - Jekyll
+  - NextJS
+  - VuePress
 - Other
- - Git
+  - Git
 
 <br>  
 
