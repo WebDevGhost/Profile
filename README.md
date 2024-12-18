@@ -11,57 +11,72 @@ What We offer:
 <br>  
 
 ### ⚙️ What We Work With
-- Java
-- JavaScript
-- PHP
-- Python
-- Swift
-- React
-- BackBone JS
-- BootStrap
-- CSS3
-- HTML5
-- SASS
-- WebPack
-- TailWind
-- Materialize
-- QT
-- NodeJS
-- Nginx
-- NestJS
-- Android
-- Flutter
-- Kotlin
-- NativeScript
-- ReactNative
-- PY Torch
-- MongoDB
-- MySQL
-- Oracle
-- SQ-Lite
-- MS-SQL
-- CanvasJS
-- AWS
-- Docker
-- Kubernetes
-- Bash
-- Azure
-- FireBase
-- Heroku
-- Django
-- DotNet
-- Electron
-- Flask
-- Quasar
-- Selenium
-- Illustrator
-- PhotoShop
-- Figma
-- Blender
-- Jekyll
-- NextJS
-- VuePress
-- Git
+- Programming Languages
+ - Java
+ - JavaScript
+ - PHP
+ - Python
+ - Swift
+- Front-End Development
+ - React
+ - BackBone JS
+ - BootStrap
+ - CSS3
+ - HTML5
+ - SASS
+ - WebPack
+ - TailWind
+ - Materialize
+ - QT
+- Back-End Development
+ - NodeJS
+ - Nginx
+ - NestJS
+- Mobile App Development
+ - Android
+ - Flutter
+ - Kotlin
+ - NativeScript
+ - ReactNative
+- AI / Machine Learning
+ - PY Torch
+ - SeaBorn
+- Database
+ - MongoDB
+ - MySQL
+ - Oracle
+ - SQ-Lite
+ - MS-SQL
+- Data Visualization
+ - CanvasJS
+- DevOps
+ - AWS
+ - Docker
+ - Kubernetes
+ - Bash
+ - Azure
+- BAAS (Back-End As A Service)
+ - FireBase
+ - Heroku
+- Framework
+ - Django
+ - DotNet
+ - Electron
+ - Flask
+ - Quasar
+- Testing
+ - Selenium
+- Software
+ - Illustrator
+ - PhotoShop
+ - Figma
+ - Blender
+- Static Site Generators
+ - Jekyll
+ - NextJS
+ - VuePress
+- Other
+ - Git
 
 <br>  
 
