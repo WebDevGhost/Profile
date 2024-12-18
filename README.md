@@ -1,9 +1,10 @@
 ### 👋 Welcome
 Hello and welcome to the WebDev Ghost profile repo! Here, You can find some info about who We are and what We do.  
-Residence: United Kingdom  
-Employment: Self employed  
 
-What We offer:  
+🏳️ Residence: United Kingdom  
+💼 Employment: Self employed  
+
+🔔 What We offer:  
 - Custom websites
 - Social media marketing growth
 - Custom logos, banners & profile pictures
